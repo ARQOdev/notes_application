@@ -1,0 +1,16 @@
+C:\Anri\PROJECTS\note-taking app\Notes\bin\Debug\net8.0-windows\Notes.exe
+C:\Anri\PROJECTS\note-taking app\Notes\bin\Debug\net8.0-windows\Notes.deps.json
+C:\Anri\PROJECTS\note-taking app\Notes\bin\Debug\net8.0-windows\Notes.runtimeconfig.json
+C:\Anri\PROJECTS\note-taking app\Notes\bin\Debug\net8.0-windows\Notes.dll
+C:\Anri\PROJECTS\note-taking app\Notes\bin\Debug\net8.0-windows\Notes.pdb
+C:\Anri\PROJECTS\note-taking app\Notes\obj\Debug\net8.0-windows\Notes.Form1.resources
+C:\Anri\PROJECTS\note-taking app\Notes\obj\Debug\net8.0-windows\Notes.csproj.GenerateResource.cache
+C:\Anri\PROJECTS\note-taking app\Notes\obj\Debug\net8.0-windows\Notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Anri\PROJECTS\note-taking app\Notes\obj\Debug\net8.0-windows\Notes.AssemblyInfoInputs.cache
+C:\Anri\PROJECTS\note-taking app\Notes\obj\Debug\net8.0-windows\Notes.AssemblyInfo.cs
+C:\Anri\PROJECTS\note-taking app\Notes\obj\Debug\net8.0-windows\Notes.csproj.CoreCompileInputs.cache
+C:\Anri\PROJECTS\note-taking app\Notes\obj\Debug\net8.0-windows\Notes.dll
+C:\Anri\PROJECTS\note-taking app\Notes\obj\Debug\net8.0-windows\refint\Notes.dll
+C:\Anri\PROJECTS\note-taking app\Notes\obj\Debug\net8.0-windows\Notes.pdb
+C:\Anri\PROJECTS\note-taking app\Notes\obj\Debug\net8.0-windows\Notes.genruntimeconfig.cache
+C:\Anri\PROJECTS\note-taking app\Notes\obj\Debug\net8.0-windows\ref\Notes.dll
